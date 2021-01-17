@@ -1,3 +1,4 @@
-# YazilimTasarimDesenleri
-Yazılım Tasarım Desenleri
-Trees
+# Design Patterns
+
+#Creational Design Patterns:
+*#Singleton Pattern:
