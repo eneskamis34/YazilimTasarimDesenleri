@@ -6,11 +6,11 @@ public class TelefonFabrikasi {
 
         if("S8".equalsIgnoreCase(model))
         {
-            telefon = new S8("Samsung","S8",4000,5500);
+            telefon = new S8(marka,model,batarya,fiyat);
         }
         else if("Iphone12".equalsIgnoreCase(model))
         {
-            telefon = new Iphone12("Apple","Iphone12",3300,7000);
+            telefon = new Iphone12(marka,model,batarya,fiyat);
         }
         else
         {
