@@ -12,5 +12,9 @@ public class main {
         //static değişkenler ise daha nesne oluşturulmadan oluşturulurlar.
         //Daha sonrasında getCompany() metodu çağrılarak, hep o ilk baştaki nesne kullanılıyor. Yeni bir nesne oluşturulmuyor.
 
+        for(int i = 0; i < 10; i++)
+        {
+            Car car = Car.getCar();
+        }
     }
 }
