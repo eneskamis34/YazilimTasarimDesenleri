@@ -12,3 +12,4 @@ Benzer özellikleri olan nesneleri tek bir instance üzerinden yaratmamıza imka
 Birbiriyle alakalı veya bağımlı nesnelerin somut sınıflarını belirtmeden, yaratılması için gereken bir arayüz sağlar.
 - Nesneleri yaratan fabrika sınıfından somut nesne yaratma işlemini çıkarmak istiyorsak, bu tasarım desenini kullanmak gereklidir.
 - Ayrıca temel Factory Pattern'da bulunan if-else (spagetti) yapısından da kurtulmak için de kullanabiliriz.
+### Builder Pattern:
