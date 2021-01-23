@@ -14,3 +14,4 @@ Birbiriyle alakalı veya bağımlı nesnelerin somut sınıflarını belirtmeden
 - Ayrıca temel Factory Pattern'da bulunan if-else (spagetti) yapısından da kurtulmak için de kullanabiliriz.
 ### Builder Pattern:
 Çoklu field barındıran classları kullanırken özellikle girilmesi zorunlu tuttuğumuz ya da opsiyonel olarak belirtmek istediğimiz durumlarda kargaşa ve karmaşık bir constructor yapısı olmaması için kullanılan yapıdır.
+- Çok fazla field olduğunda oluşabilecek karmaşaların önüne geçmek için kullanılabilir.
