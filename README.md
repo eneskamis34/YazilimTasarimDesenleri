@@ -19,3 +19,9 @@ Birbiriyle alakalı veya bağımlı nesnelerin somut sınıflarını belirtmeden
 Nesnelerin bellek kullanımı göz önüne alındığında verimli bir bellek kullanımı için gerektiği yerlerde yeni nesne üretmek yerine üretilmiş bir nesneyi **klonlama** işlemi için kullanılan yapıdır.
 - İki tip klonlama yöntemi bulunuyor ve bu yöntemler: **Shallow Copy** ya da **Deep Copy** olarak karşımıza çıkıyor.
 - Shallow Copy ya da Türkçesi ile Yüzeysel kopyalama olarak ele alırsak bu Pattern için bize hiç uygun olmayacaktır, çünkü sadece ana sınıfı klonlarken fieldlerı değiştirmeyecektır. Bu yüzden **bu patternde Deep Copy kullanılmalıdır.**
+
+## Structural Design Patterns:
+### Adapter Pattern:
+Birbirinden farklı ve ilişkisi olmayan interfaceleri birlikte kullanmamızı sağlayan bir yapısal tasarımdır.
+- Bir nevi dönüşüm işlemi yapmaktadır. Adaptör görevi görerek çalışır. 
+- Bu sayede kodların tekrar yazılmasının önüne geçmiş olur.
