@@ -25,3 +25,4 @@ Nesnelerin bellek kullanımı göz önüne alındığında verimli bir bellek ku
 Birbirinden farklı ve ilişkisi olmayan interfaceleri birlikte kullanmamızı sağlayan bir yapısal tasarımdır.
 - Bir nevi dönüşüm işlemi yapmaktadır. Adaptör görevi görerek çalışır. 
 - Bu sayede kodların tekrar yazılmasının önüne geçmiş olur.
+### Bridge Pattern:
