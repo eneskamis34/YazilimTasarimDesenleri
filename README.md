@@ -29,3 +29,4 @@ Birbirinden farklı ve ilişkisi olmayan interfaceleri birlikte kullanmamızı s
 Soyut sınıflarla diğer sınıfları farklı hiyeraşik bir yapıda toplayarak esnek bir kullanım sağlayan yapısal tasarımdır.
 - Temel hedef, genişlemeye ve geliştirmeye açık ama değişime kapalı bir yapı oluşturmaktır.
 ### Composite Pattern:
+Nesneler arası hiyeraşik bir yapı olduğunda Open/Closed prensibini ihlal etmemek ve daha kullanılabilir bir yapı tasarlamak için kullanılan yapısal tasarmdır.
