@@ -28,3 +28,4 @@ Birbirinden farklı ve ilişkisi olmayan interfaceleri birlikte kullanmamızı s
 ### Bridge Pattern:
 Soyut sınıflarla diğer sınıfları farklı hiyeraşik bir yapıda toplayarak esnek bir kullanım sağlayan yapısal tasarımdır.
 - Temel hedef, genişlemeye ve geliştirmeye açık ama değişime kapalı bir yapı oluşturmaktır.
+### Composite Pattern:
